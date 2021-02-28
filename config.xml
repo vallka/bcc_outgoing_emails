@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>bcc_outgoing_emails</name>
+	<displayName><![CDATA[Bcc outgoing emails]]></displayName>
+	<version><![CDATA[0.0.1]]></version>
+	<description><![CDATA[Adds BCC to all outgoing emails]]></description>
+	<author><![CDATA[vallka]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
